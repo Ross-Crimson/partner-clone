@@ -1,0 +1,11 @@
+.bgImg {
+    background-image: url("assets/skyscraper.jpg");
+    background-size: cover;
+}
+
+.ppImg {
+    -webkit-mask-image: url("assets/carCircle1.png");
+    mask-image: url("assets/carCircle1.png");
+    -webkit-mask-repeat: inherit;
+    mask-repeat: inherit;
+}
